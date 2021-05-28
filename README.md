@@ -4,7 +4,12 @@
 - 🌱 I’m currently learning .NET, C#, Visual Basic.
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Paulo-JRaitz&show_icons=true&theme=dracula" alt="Paulo-JRaitz"/> 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Paulo-JRaitz&show_icons=true&theme=dracula&hide_border=true" alt="Paulo-JRaitz"/> 
+<br />
+<img src='https://github-readme-streak-stats.herokuapp.com?user=Paulo-JRaitz&theme=material-palenight&hide_border=true' alt='Paulo-JRaitz' />
+</p>
+
 </p>
 
 </p>
@@ -12,9 +17,5 @@
 <a href="https://www.linkedin.com/in/paulo-de-jesus-raitz-651748172/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Paulo-JRaitz" height="30" width="20" /></a>
 <a href="https://fb.com/paulo.raitz.73" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Paulo-JRaitz" height="20" width="20"/></a>
 <a href="https://instagram.com/Paulo_Raitz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Paulo-JRaitz" height="20" width="20" />
-  
-  
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Paulo-JRaitz&theme=darcula)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
   </a>
 </p>
