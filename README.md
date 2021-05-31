@@ -7,7 +7,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Paulo-JRaitz&show_icons=true&theme=dracula&hide_border=true" alt="Paulo-JRaitz"/> 
 <br />
-<img src='https://github-readme-streak-stats.herokuapp.com?user=Paulo-JRaitz&theme=material-palenight&hide_border=true' alt='Paulo-JRaitz' />
 </p>
 
 </p>
