@@ -1,4 +1,4 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Paulo Raitz</h1>
+<h1 align="center">Hi dear, I'm Paulo Raitz</h1>
 <h3 align="left">Brasileiro, entusiasta de tudo que envolve soluções baseadas em tecnologias e programação, com capacidade de rápida adaptação, interação com a equipe e assimilação do conceito e das regras de negócio.</h3>
 
 #
