@@ -40,25 +40,6 @@ Desenvolvedor brasileiro com mais de 4 anos de experiência em criar aplicaçõe
 
 </div>
 
----
-
-### GitHub Profile Summary
-
-<div align="center" style="display: flex; flex-direction: row; gap: 32px; justify-content: center; flex-wrap: wrap; max-width: 100%;">
-
-  <img src="https://ghstats-git-main-paulo-de-jesus-raitzs-projects.vercel.app/api?username=Paulo-JRaitz&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=141321&border_color=141321&title_color=FF0055&text_color=04D0EB&icon_color=FCEE0C&text_bold=false&show_owner=true" alt="GitHub Stats" style="flex: 1;" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paulo-JRaitz&theme=2077" alt="GitHub Profile Details" style="flex: 1;" />
-  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Paulo-JRaitz&theme=2077" alt="Repos per Language" style="flex: 1;" />
-
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Paulo-JRaitz&theme=2077" alt="Most Commit Language" style="flex: 1;" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Paulo-JRaitz&theme=tokyonight&no-frame=true&row=2&column=4" alt="Most Commit Language" style="flex: 1;" />
-
-</div>
-
----
-
 ### Entre em Contato:
 
 <div align="center">
